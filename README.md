@@ -1,0 +1,1 @@
+Cool text editor.
